@@ -14,7 +14,12 @@ public class JenkinsController {
 
     @GetMapping("")
     public List<String> greetUser() {
-        return List.of("Hello User", "Welcome to Jenkins Pipeline");
+        return List.of(
+                "Hello User",
+                "Welcome to Jenkins Pipeline",
+                "https://ngrok.com/",
+                "https://serveo.net/"
+        );
     }
 
 
