@@ -17,8 +17,7 @@ public class JenkinsController {
         return List.of(
                 "Hello User",
                 "Welcome to Jenkins Pipeline",
-                "https://ngrok.com/",
-                "https://serveo.net/"
+                "https://ngrok.com/"
         );
     }
 
