@@ -14,7 +14,7 @@
 	<name>jenkins</name>
 	<description>Creating Jenkins Pipeline</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
